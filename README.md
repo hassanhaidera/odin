@@ -1,2 +1,3 @@
 # odin
-odin project stuff
+my first repo
+hello 
